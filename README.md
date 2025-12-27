@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/b63ca308-7e38-4967-aeea-a3833db7e485" /># Ex.07 Design of Interactive Image Gallery
+## Ex.07 Design of Interactive Image Gallery
 ## Date:26-12-2025
 
 ## AIM:
@@ -147,6 +147,7 @@ body {
     background-color: rgba(0, 0, 0, 0.9);
 }
 ```
+```
 var pics = [
     {
         image: "2025 Bentley Continental GT_ A Blend of Luxury and Performance _ Bentley Continental GT Review.jpg",
@@ -203,7 +204,7 @@ function prev() {
     show();
 }
 show();
-
+```
 ```
 ## OUTPUT:
 <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/103d95fa-86ee-4bf1-aff4-04cd78606003" />
